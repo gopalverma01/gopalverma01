@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @gopalverma01
+- 👀 I’m interested in ...coading and getting new skills 
+- 🌱 I’m currently learning ...web development 
+- 💞️ I’m looking to collaborate on ...everywhere you want .
+- 📫 How to reach me ...by an email - vermagopal1625@gmail.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...i am new at coading but know all the platform of coading
+
+<!---
+gopalverma01/gopalverma01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
