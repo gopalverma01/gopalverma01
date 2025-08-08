@@ -16,7 +16,7 @@
 
 ### 📫 Connect With Me
 - 📧 Email: [vermagopal1625@gmail.com](mailto:vermagopal1625@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/gopalverma01](https://www.linkedin.com/in/gopalverma01/) *(if available)*
+- 💼 LinkedIn: [linkedin.com/in/gopalverma01](https://www.linkedin.com/in/gopal-verma-645801247/)
 - 💻 GitHub: [github.com/gopalverma01](https://github.com/gopalverma01)
 
 ---
